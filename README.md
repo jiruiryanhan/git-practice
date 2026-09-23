@@ -6,6 +6,11 @@ Well, I found this article, I read it a couple of years ago, and I found it inte
 
 But on the other side, I believe this article reveals an implication that is not just about the limitations of vibe coding, but also its advantage in web development. So let's say you're instructing the AI to build you a SaaS platform's dashboard with sidebars, analytic cards, and a settings page. The AI model doesn't need to invent another dashboard; there are hundreds of millions of dashboards already out there on the internet. In some sense, a blurry JPEG is exactly what a lot of web developers want and need. However, another danger emerges: the blurry JPEG, or what the "vibe code" delivered by the AI model, is something that looks correct, but visual correctness can masquerade as software correctness.
 
+### Tony Zhou's Comment
+
+I found this article interesting because the “blurry JPEG” metaphor explains both the strengths and weaknesses of generative AI really well. I especially agree with the point that AI-generated software can look correct without actually being reliable underneath. This seems especially important in vibe coding, where it is easy to focus on whether the interface works visually while missing problems in the logic, security, or overall code quality. I think AI is very useful for speeding up development, but developers still need to understand and verify what it produces.
+
+— Tony Zhou
 ## Comment by Chenxin Yan (cy2558)
 
 Your point about something looking correct without actually working stood out to me. The copier example makes that risk easy to understand: the wrong numbers still looked believable. I'm excited about what coding agents can do, but this is why I'm also interested in ways to verify their output. A dashboard looking good is a starting point, not proof that the code works.
